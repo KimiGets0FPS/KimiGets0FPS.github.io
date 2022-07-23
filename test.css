@@ -1,0 +1,16 @@
+.tests{
+    color: white;
+    font-size: large;
+    font-family: Comic Sans MS, serif;
+    text-align: center;
+}
+
+
+.input {
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-family: Comic Sans MS, serif;
+}
+

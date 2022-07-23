@@ -1,0 +1,40 @@
+.about-me{
+    font-size: large;
+    font-family: Comic Sans MS, serif;
+    color: white;
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+}
+
+.button-tests {
+    background-color: aqua;
+    border: none;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.button-tests:hover{
+    filter: brightness(0.9)
+}
+
+.button-socials {
+    background-color: orange;
+    border: none;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.button-socials:hover {
+    filter: brightness(0.9)
+}
